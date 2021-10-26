@@ -6,3 +6,4 @@ This is a boundary layer using icoFOAM
  no slip condition at the bottom wall
  symmetry velocity and the beggining of the bottom wall
  
+We are going to add turbulence modelling in the coming lectures
